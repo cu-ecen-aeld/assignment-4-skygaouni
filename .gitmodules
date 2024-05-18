@@ -4,3 +4,6 @@
 [submodule "actions-runner/buildroot"]
 	path = actions-runner/buildroot
 	url = https://git.busybox.net/buildroot/
+[submodule "buildroot"]
+	path = buildroot
+	url = https://git.busybox.net/buildroot/
